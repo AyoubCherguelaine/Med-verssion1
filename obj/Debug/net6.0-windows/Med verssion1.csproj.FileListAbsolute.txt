@@ -1,0 +1,32 @@
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Med verssion1.exe
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Med verssion1.deps.json
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Med verssion1.runtimeconfig.json
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Med verssion1.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\ref\Med verssion1.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Med verssion1.pdb
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.csproj.AssemblyReference.cache
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\UserControl1.g.cs
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1_MarkupCompile.cache
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1_MarkupCompile.lref
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\UserControl1.baml
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.g.resources
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.AssemblyInfoInputs.cache
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.AssemblyInfo.cs
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.csproj.CoreCompileInputs.cache
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.dll
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\ref\Med verssion1.dll
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.pdb
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.genruntimeconfig.cache
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\AYOUB\source\repos\Med verssion1\bin\Debug\net6.0-windows\Zstandard.Net.dll
+C:\Users\AYOUB\source\repos\Med verssion1\obj\Debug\net6.0-windows\Med verssion1.csproj.CopyComplete

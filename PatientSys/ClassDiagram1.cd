@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Med_verssion1.PatientSys.Consultation">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAIAAAAABEIAAAgAAAAAEAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>PatientSys\Consultation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Rendez_vous" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Med_verssion1.PatientSys.Ordonnance">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAACAAAAABEAAABAAAAAAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>PatientSys\Ordonnance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Med_verssion1.PatientSys.Patient">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAEAAAAABEAAAAASCAASEAAAACBCAAAAAAIAA=</HashCode>
+      <FileName>PatientSys\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Med_verssion1.PatientSys.PatientParametre">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACBEIAAAAAAAAAUAAAABAAAAAAAEAAA=</HashCode>
+      <FileName>PatientSys\PatientParametre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Med_verssion1.PatientSys.Rendez_vous">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAABEAAgAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>PatientSys\Rendez_vous.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
